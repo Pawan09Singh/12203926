@@ -53,9 +53,9 @@ Follow these steps to set up and run the project:
 
 Here's the URL Shortener page:
 
-<img src="./screenshots/url-shortener.png" alt="URL Shortener Interface" width="500">
+<img src="./s1.png" alt="URL Shortener Interface" width="500">
 
 And here's the Statistics page:
 
-<img src="./screenshots/statistics.png" alt="Statistics Page" width="500">
+<img src="./s2.png" alt="Statistics Page" width="500">
 
