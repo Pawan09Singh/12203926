@@ -49,4 +49,13 @@ Follow these steps to set up and run the project:
 
     <img width="1917" height="1007" alt="Screenshot 2025-07-14 124459" src="https://github.com/user-attachments/assets/06e2967b-814d-40a1-8c77-59715b898904" />
     <img width="1912" height="961" alt="Screenshot 2025-07-14 130024" src="https://github.com/user-attachments/assets/0302d3e7-05d5-4151-847a-4d525881f6c0" />
+    ## Screenshots
+
+Here's the URL Shortener page:
+
+<img src="./screenshots/url-shortener.png" alt="URL Shortener Interface" width="500">
+
+And here's the Statistics page:
+
+<img src="./screenshots/statistics.png" alt="Statistics Page" width="500">
 
